@@ -28,6 +28,11 @@ bloomBtn.addEventListener("click", function () {
 
   if (clickCount >= 5) {
     finalMessage.classList.remove("d-none");
-    topText.textContent = "Happy Mother's Day!";
+    message.classList.remove("celebrate");
+    flowers.classList.remove("celebrate");
+    void message.offsetWidth;
+
+    message.classList.add("celebrate");
+    flowers.classList.add("celebrate");
   }
 });
