@@ -1,6 +1,6 @@
 # Mothers day webapp
 
-A webapp you can send to your mother via email or text to make your mother's day.
+A webapp you can send to a mother via email or text to make your mother's day.
 
 ## Demo
 
