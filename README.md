@@ -8,7 +8,7 @@ Live site
 
 ## Screenshots
 
-!(image.png)
+![Screenshot](image.png)
 
 ## Features
 
