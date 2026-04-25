@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Bruh</title>
+    <title>Mother's Day Webapp</title>
 
     <!-- Bootstrap CSS -->
     <link
@@ -13,22 +13,28 @@
     />
     <link rel="stylesheet" href="style.css" />
   </head>
+  <body>
+    <main class="page d-flex justify-content-center align-items-center">
+      <section class="card mothers-day-card text-center shadow-lg">
+        <div class="card-body p-5">
+          <p class="small text-uppercase fw-bold mb-2">
+            A special card for you :)
+          </p>
 
-  <body class="bg-light">
-    <div class="container mt-5">
-      <div class="card shadow-sm mx-auto" style="max-width: 600px">
-        <div class="card-body">
-          <h1 class="text-center mb-4">Bruh</h1>
-          <h1 id="counter">0</h1>
-          <button id="buttonCounter" class="btn btn-primary">button</button>
-          <button id="buttonCounterMinus" class="btn btn-primary">
-            minus button
-          </button>
+          <h1 id="topText">Dear Tanya</h1>
 
-          <div class="input-group mb-3"></div>
+          <p id="message" class="message">Click the button to grow the love.</p>
+
+          <div id="flowers" class="flowers mb-4"></div>
+
+          <button id="bloomBtn" class="btn bloom-btn">Make it Bloom</button>
+
+          <p id="finalMessage" class="final-message mt-4 d-none">
+            Thank you for your love, patience, kindness, and everything you do.
+          </p>
         </div>
-      </div>
-    </div>
+      </section>
+    </main>
 
     <!-- Your JavaScript -->
     <script src="app.js"></script>
