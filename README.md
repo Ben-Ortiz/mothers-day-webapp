@@ -30,5 +30,5 @@ Clone the repo:
 git clone https://github.com/Ben-Ortiz/mothers-day-webapp.git
 ```
 
-Open in Visual Studio
+Open in Visual Studio  
 Edit the files
