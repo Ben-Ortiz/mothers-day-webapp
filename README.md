@@ -4,7 +4,7 @@ A webapp you can send to your mother via email or text to make your mother's day
 
 ## Demo
 
-![Live site](https://ben-ortiz.github.io/mothers-day-webapp/)
+[Live site](https://ben-ortiz.github.io/mothers-day-webapp/)
 
 ## Screenshots
 
