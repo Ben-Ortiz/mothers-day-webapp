@@ -12,6 +12,10 @@ A webapp you can send to your mother via email or text to make your mother's day
 
 ## Features
 
+- Clicking button shows more messages.
+- Final message once enough times button clicked/
+- Flower emojis populate page the more you click the button.
+
 ## Tech Stack
 
 - HTML
