@@ -8,7 +8,7 @@ A webapp you can send to a mother via email or text to make your mother's day.
 
 ## Screenshots
 
-![Screenshot](image.png)
+![Screenshot](image1.png)
 
 ## Features
 
