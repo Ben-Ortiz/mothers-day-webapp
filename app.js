@@ -8,10 +8,10 @@ let clickCount = 0;
 let fontSize = 18;
 
 const messages = [
-  "You are loved.",
-  "You make everything better.",
-  "Thank you for everything you do.",
-  "You are appreciated more than words can say.",
+  "I’m proud of you. You’re carrying so much, literally and emotionally.",
+  "Our baby is going to know so much love because of you.",
+  "This baby is so lucky to have you.",
+  "I’m proud of you. You’re carrying so much, literally and emotionally.",
   "Happy Mother's Day!",
 ];
 
